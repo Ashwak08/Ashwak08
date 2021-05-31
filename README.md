@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ashwak08...
-- 👀 I’m interested in Cloud Computing,Programming,Python and what not Everything.
+- 👀 I’m interested in Cloud Computing,Programming and what not Everything.
 - 🌱 I’m currently learning AWS,Devops.
 - 💞️ I’m looking to collaborate with anyone i love gaining Knowledge and Sharing..
 - 📫 How to reach me E-mail:mirchiash123@gmail.com
