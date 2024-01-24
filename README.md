@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Ashwak....
 - 👀 I’m interested in Cloud Computing,Devops and what not Everything.
 - 🌱 I’m currently learning AWS,Azure,Devops.
-- 💞️ I’m looking to collaborate with anyone i love gaining Knowledge and Sharing..
+- 💞️ I’m looking to collaborate with anyone i love gaining Knowledge and Sharing.
+- ✨ Open to Feedback & looking forward to exciting Opportunities! 💼
 - 📫 How to reach me E-mail:mirchiash123@gmail.com
 - ⚡ Fun fact: Jack of all trades , Master of None !
 
