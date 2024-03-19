@@ -1,0 +1,60 @@
+# Your Name
+
+**Address:** [Address], [City, State, ZIP]  
+**Phone:** [Phone Number]  
+**Email:** [Email Address]
+
+## Objective
+Highly skilled and motivated Site Reliability Engineer (SRE) with [X] years of experience in designing, building, and maintaining highly scalable and reliable systems. Seeking a challenging position where I can leverage my expertise in automation, monitoring, incident response, and infrastructure management to ensure the availability, performance, and efficiency of critical applications and services.
+
+## Education
+- [Bachelor's/Master's Degree] in [Computer Science/Engineering/Information Technology]  
+  [University Name], [Year]
+
+## Certifications
+- [Certification Name], [Certifying Organization], [Year]
+- [Certification Name], [Certifying Organization], [Year]
+
+## Skills
+- Programming Languages: Python, Go, Shell scripting
+- Cloud Technologies: AWS, Azure, Google Cloud Platform
+- Containerization and Orchestration: Docker, Kubernetes
+- Infrastructure as Code (IaC): Terraform, Ansible
+- Continuous Integration/Continuous Delivery (CI/CD): Jenkins, GitLab CI/CD
+- Monitoring and Alerting: Prometheus, Grafana, ELK Stack
+- Incident Response and Troubleshooting: PagerDuty, Splunk, New Relic
+- Reliability Engineering: SLA/SLO, Error Budgets, Chaos Engineering
+- Networking: TCP/IP, DNS, Load Balancing
+- Collaboration and Communication: Agile, Scrum, Jira, Confluence
+
+## Experience
+
+### [Company Name], [Location]
+#### Site Reliability Engineer, [Year - Present]
+
+- Implemented infrastructure automation using Terraform and Ansible, reducing manual provisioning time by 70% and improving consistency across environments.
+- Designed and built scalable Kubernetes clusters on AWS/GCP for deploying microservices, improving application scalability and fault tolerance.
+- Developed and maintained CI/CD pipelines using Jenkins and GitLab CI/CD, enabling automated building, testing, and deployment of applications.
+- Implemented monitoring and alerting solutions using Prometheus, Grafana, and ELK Stack, enabling proactive issue detection and reducing mean time to resolution.
+- Collaborated with development teams to improve application performance and reliability through performance tuning, load testing, and code optimization.
+- Led incident response and troubleshooting efforts, ensuring timely resolution of critical incidents and minimizing downtime.
+- Conducted Chaos Engineering experiments to proactively identify system weaknesses and improve resilience.
+- Participated in on-call rotations, responding to incidents and performing root cause analysis to prevent recurrence.
+
+### [Previous Company], [Location]
+#### Site Reliability Engineer, [Year - Year]
+
+- Managed infrastructure on AWS, including EC2, S3, RDS, and VPC, ensuring high availability, scalability, and security.
+- Automated infrastructure provisioning and configuration using Terraform and Ansible, reducing deployment time by 50% and improving infrastructure consistency.
+- Implemented centralized logging and log analysis using ELK Stack, improving troubleshooting and monitoring capabilities.
+- Worked closely with development teams to implement performance monitoring and optimization strategies.
+- Collaborated with security teams to implement and maintain security controls and ensure compliance with industry standards.
+- Conducted disaster recovery planning and testing exercises to ensure business continuity.
+
+## Projects
+
+- **Project Name**: Implemented a comprehensive observability solution using Prometheus and Grafana, providing real-time monitoring and alerting for critical applications and services.
+- **Project Name**: Led the migration of legacy infrastructure to a containerized architecture using Kubernetes, resulting in improved scalability and reduced operational overhead.
+
+## References
+Available upon request
